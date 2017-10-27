@@ -9,16 +9,16 @@ Gracias por compartir esta idea y descubrinos a los demás como mejorar día a d
 
 # Objetivos generales
 1. :school:Terminar con éxito mi [máster en Javascript](http://www.fictizia.com/formacion/master-javascript-nodejs)
-2. Contribuir con el mundo Open Source
-3. Mejorar mi perfil en Github
-4. Aprender Preprocesadores de css
-5. Superar las fases del duelo. Status: (1/5)
-6. Terminar mi lista de lectura
-7. Retomar la rehabilitación del hombro
-8. Implementar mi web personal de una vez
-9. Colgar mi videojuego en javascript para recibir feedback y hacer un mvp
-10. Terminar mi manta de ganchillo que empecé para el invierno pasado
-11. Volver a pintar acuarelas
+2. :pencil:Contribuir con el mundo Open Source
+3. :star2:Mejorar mi perfil en Github
+4. :closed_book:Aprender Preprocesadores de css
+5. :umbrella:Superar las fases del duelo. Status: (1/5)
+6. :bookmark:Terminar mi lista de lectura
+7. :hospital:Retomar la rehabilitación del hombro
+8. :lipstick:Implementar mi web personal de una vez
+9. :video_game:Colgar mi videojuego en javascript para recibir feedback y hacer un mvp
+10. :scissors:Terminar mi manta de ganchillo que empecé para el invierno pasado
+11. :art:Volver a pintar acuarelas
 
 # Objetivos mensuales
 
@@ -49,5 +49,5 @@ Gracias por compartir esta idea y descubrinos a los demás como mejorar día a d
 3. Los 7 hábitos
 
 ### Eventos
-[ ] Codemotion
-[ ] Exposición [Noelia](http://www.noumenow.com/) en [Mad is Mad](http://www.madismad.com/exposicion/mad-libro-show-1/)
+- [ ] Codemotion
+- [ ] Exposición [Noelia](http://www.noumenow.com/) en [Mad is Mad](http://www.madismad.com/exposicion/mad-libro-show-1/)
