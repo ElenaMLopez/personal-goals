@@ -1,42 +1,53 @@
-Personal Goals
+Objetivos personales
 ==============
 
-Personal goals made open source.
+Mis logros personales hechos Open Source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+Idea original de [Una Kravets: How Open Sourcing my personal Goals made me really productive](https://una.im/personal-goals-guide/#%F0%9F%92%81). Puedes hacer un fork de su repositorio de [inicio](https://github.com/una/personal-goals-starter).
+He descubierto esta iniciativa gracias a [cristinafsanz](https://github.com/cristinafsanz) a quien recomiendo encarecidamente seguir ya que para mí es una fuente de inspiración y motivación diaria.
+Gracias por compartir esta idea y descubrinos a los demás como mejorar día a día.
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# Objetivos generales
+1. :school:Terminar con éxito mi [máster en Javascript](http://www.fictizia.com/formacion/master-javascript-nodejs)
+2. Contribuir con el mundo Open Source
+3. Mejorar mi perfil en Github
+4. Aprender Preprocesadores de css
+5. Superar las fases del duelo. Status: (1/5)
+6. Terminar mi lista de lectura
+7. Retomar la rehabilitación del hombro
+8. Implementar mi web personal de una vez
+9. Colgar mi videojuego en javascript para recibir feedback y hacer un mvp
+10. Terminar mi manta de ganchillo que empecé para el invierno pasado
+11. Volver a pintar acuarelas
 
-# November 00, 2014
+# Objetivos mensuales
 
-### This Week's Goal: Be Awesome.
+## Vie. 27 - Do 29
+
+### Logro de la semana: Ser capaz de retomar mi rutina.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+- [x] Empezar mi máster
+- [ ] Subir mi recetario a github
+- [ ] Escribir al menos 5 recetas en el recetario
+- [x] Trabajar al menos 1 hora
+- [ ] Crear un gist con mi lista de recursos
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Cosas para hacer este mes: Octubre 2017
+- [x] Empezar esta rutina
+- [ ] Avanzar 1 fase en mi duelo
+- [ ] Aprender más sobre Gist y documentación limpia
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+- [ ] Pensar en qué camino seguir con [Contrust](https://github.com/ValKiriann/contrustPrototype)
+- [ ] Rediseño web yoSoyTuMadre
+- [ ] Welcome guild en OSWeekends
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+### Backlog: Lista de lectura
+1. Organízate con eficacia (Getting things done) - David Allen
+2. Clean code
+3. Los 7 hábitos
+
+### Eventos
+[ ] Codemotion
+[ ] Exposición [Noelia](http://www.noumenow.com/) en [Mad is Mad](http://www.madismad.com/exposicion/mad-libro-show-1/)

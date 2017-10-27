@@ -1,4 +1,4 @@
-# Books to Read
+# Libros pendientes
 
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
 - [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
